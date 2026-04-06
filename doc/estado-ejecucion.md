@@ -11,11 +11,11 @@
 | Campo | Valor |
 |-------|-------|
 | **Proyecto** | Fullstack TypeScript + GitHub + Vercel |
-| **Inicio del proyecto** | [Pendiente — completar al iniciar Fase 1] |
-| **Última actualización** | [Pendiente] |
-| **Fase actual** | ⬜ Sin iniciar |
+| **Inicio del proyecto** | 6 de abril de 2026, 14:30 |
+| **Última actualización** | 6 de abril de 2026, 14:30 |
+| **Fase actual** | 🟡 FASE 1 EN PROGRESO |
 | **URL de producción** | [Pendiente — disponible al completar Fase 5] |
-| **Repositorio GitHub** | [Pendiente — completar al iniciar Fase 1] |
+| **Repositorio GitHub** | https://github.com/Xavi1002/proyecto_1082912449.git |
 
 ---
 
@@ -63,8 +63,10 @@
 ### FASE 1 — Setup Inicial del Repositorio
 
 ```
-[PENDIENTE] Esta fase aún no ha sido iniciada.
-Ejecuta el PROMPT FASE 1 de prompts-implementacion.md para comenzar.
+[INICIO] FASE 1 — Setup Inicial del Repositorio
+Fecha/hora: 6 de Abril de 2026, 14:35 UTC
+Estado: EN PROGRESO ⏳
+Responsable skill: Ingeniero DevOps / Fullstack Senior
 ```
 
 ---
