@@ -1,14 +1,13 @@
 import { NextResponse } from 'next/server';
-import { cargarDatos } from '../../../lib/dataLoader';
 import type { ConfigSitio } from '../../../lib/types';
 
-/**
- * API Route para obtener la configuración del sitio
- * GET /api/data
- */
+// Importar datos JSON directamente (Next.js hace tree-shaking)
+import configData from '../../../data/config.json';
+
 export async function GET() {
   try {
-    const config: ConfigSitio = await cargarDatos<ConfigSitio>('config');
+    // Devolver los datos importados directamente
+    const config: ConfigSitio = configData;
     return NextResponse.json(config);
   } catch (error) {
     console.error('Error en API /api/data:', error);
