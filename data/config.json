@@ -1,8 +1,8 @@
 {
   "sitio": {
     "nombre": "Mi Sitio Fullstack",
-    "saludo": "¡Hola Mundo!",
-    "subtitulo": "Bienvenido a mi aplicación fullstack con Next.js",
+    "saludo": "¡Hola Mundo! 🚀",
+    "subtitulo": "Bienvenido a mi aplicación fullstack con Next.js - Desplegado en Vercel",
     "version": "1.0.0"
   },
   "tema": {
