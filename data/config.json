@@ -1,2 +1,13 @@
-# Estructura:
-# Este archivo será completado en FASE 2
+{
+  "sitio": {
+    "nombre": "Mi Sitio Fullstack",
+    "saludo": "¡Hola Mundo!",
+    "subtitulo": "Bienvenido a mi aplicación fullstack con Next.js",
+    "version": "1.0.0"
+  },
+  "tema": {
+    "colorPrimario": "#0070f3",
+    "colorSecundario": "#ff4081",
+    "fuente": "Inter"
+  }
+}

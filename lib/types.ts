@@ -1,5 +1,4 @@
-// Placeholder para tipos de datos (Fase 2)
-// Este archivo será implementado en la siguiente fase
+// Tipos de datos para el sistema de persistencia JSON
 
 export interface ConfigSitio {
   sitio: {
