@@ -124,6 +124,13 @@ body {
   letter-spacing: 0.02em;
 }
 
+.registro {
+  font-size: 0.95rem;
+  color: rgba(248, 250, 252, 0.82);
+  margin-top: 0.75rem;
+  letter-spacing: 0.08em;
+}
+
 /* Línea decorativa animada */
 .linea-decorativa {
   width: 80px;

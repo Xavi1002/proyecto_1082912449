@@ -12,6 +12,7 @@ const HolaMundo: FC<HolaMundoProps> = ({ saludo, subtitulo }) => {
         <div className="badge">TypeScript ✓</div>
         <h1 className="titulo-principal">{saludo}</h1>
         <p className="subtitulo">{subtitulo}</p>
+        <p className="registro">Xavi Jimenez · 1082912449</p>
         <div className="linea-decorativa" />
         <span className="version-tag">Next.js 14 · Vercel · JSON DB</span>
       </div>
